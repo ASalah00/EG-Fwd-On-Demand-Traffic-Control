@@ -29,21 +29,6 @@ Implement your application
 Test your application
 
 
-The project can be distributed over 4 main tasks:
-
-
-# System Design
-Read system requirements
-Prepare system description and system components
-Make full static architecture for your system
-Prepare your development environment
-Apply your layered architecture to project's folder structure
-Prepare all files for development
-Implement your application
-Implement your drivers
-Test your drivers
-Implement system flow
-
 
 # Test your application:
 User story 1
