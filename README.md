@@ -50,3 +50,6 @@ As a pedestrian when I made a long press on the crosswalk button, I expect nothi
 User story 5
 
 As a pedestrian when I made a double press on the crosswalk button, I expect that the first press will do the action and nothing to be done after the second press.
+
+System Image:
+![system picture](https://github.com/user-attachments/assets/a32f643a-4b69-47a3-82c6-9c424251d8a0)
